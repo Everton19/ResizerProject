@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fj6pSQIocxFeCcSTrXLq6GkkpqO6FJNo03lOK8nvvkNny3WPzPAZRUlpad1CB3dYGsQzjL16U8nstaWqnsZn6A==",
+  "success": true,
+  "projectFilePath": "F:\\Projetos\\Resize\\Resize\\Resize\\Resize.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
