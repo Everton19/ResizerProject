@@ -1,8 +1,8 @@
 # ResizerProject
 <p>Projeto criado com a função de redimensionar imagens para um tamnaho específico e sem ficar distorcidas.</p>
 
-<p>Basicamente o programa é iniciado e verifica se contém estas pastas caso não haja ele cria para o usuário<p>
-![image](Files.png)
+<p>Quando o programa é iniciado ele verifica se contém estas pastas caso não haja ele cria para o usuário<p>
+![Files](https://user-images.githubusercontent.com/73833068/228705711-f296fe1f-866d-41aa-bd28-c6daea8ad5a3.png)
 
 <p>O usuário deve colocar a imagem que deseja na pasta InputFiles.<p>
 ![image](https://user-images.githubusercontent.com/73833068/228703279-cbbcda7b-cc3e-49cf-96cb-b4de98628194.png)
